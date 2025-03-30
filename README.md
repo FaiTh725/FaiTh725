@@ -65,7 +65,9 @@
 <h3 align="left">😶‍🌫️ Nice Projects</h3>
 
 <div align="left">
-  <a href="https://github.com/FaiTh725/TestTask">Test Task</a>
-  <a href="https://github.com/FaiTh725/CRUDCource">CRUD Project</a>
-  <a href="https://github.com/FaiTh725/WebCource">Cource Project</a>
+  <p><a href="https://github.com/FaiTh725/TestTask">Test Task</a></p>
+  
+  <p><a href="https://github.com/FaiTh725/CRUDCource">CRUD Project</a></p>
+  
+  <p><a href="https://github.com/FaiTh725/WebCource">Cource Project</a></p>
 </div>
