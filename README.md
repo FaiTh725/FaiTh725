@@ -64,10 +64,8 @@
 
 <h3 align="left">😶‍🌫️ Nice Projects</h3>
 
-<p align="center">
+<div align="left">
   <a href="https://github.com/FaiTh725/TestTask">Test Task</a>
   <a href="https://github.com/FaiTh725/CRUDCource">CRUD Project</a>
   <a href="https://github.com/FaiTh725/WebCource">Cource Project</a>
-</p>
-###
-###
+</div>
