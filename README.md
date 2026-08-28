@@ -88,13 +88,7 @@ Full-stack developer building web applications with **.NET** and **Angular/React
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=Faith725&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)
   
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=faith725&layout=donut-vertical&langs_count=4&theme=monokai)
-
-</div>
-
-<div align="center">
-  
-  <img src="github-metrics.svg" alt="GitHub metrics" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=7&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=faith725&layout=donut-vertical&langs_count=4&theme=monokai)
 
 </div>
 
