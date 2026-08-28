@@ -92,6 +92,12 @@ Full-stack developer building web applications with **.NET** and **Angular/React
 
 </div>
 
+<div align="center">
+  
+  [![GitHub Commits](https://raw.githubusercontent.com/faith725/faith725/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+</div>
+
 ###
 
 <h3>😶‍🌫️ Nice Projects</h3>
