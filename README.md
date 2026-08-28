@@ -85,21 +85,17 @@ Full-stack developer building web applications with **.NET** and **Angular/React
 <h3>🔥 My Stats</h3>
 
 <div align="center">
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=Faith725&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=faith725&layout=donut-vertical&langs_count=4&theme=monokai)
+
+</div>
+
+<div align="center">
+  
   <img src="github-metrics.svg" alt="GitHub metrics" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiTh725&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiTh725&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FaiTh725&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaiTh725&theme=dracula&hide_border=false&area=true" width="100%" alt="activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaiTh725&theme=dracula&no-frame=true&column=7&margin-w=5" alt="trophies" />
 </div>
 
 ###
